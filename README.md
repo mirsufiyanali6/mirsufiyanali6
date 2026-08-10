@@ -1,25 +1,22 @@
 # Hi, I'm Mir Sufiyan Ali 👋
 
-Data Analyst focused on turning data into actionable business insights using SQL, Python, and Power BI.
+Data Analyst with hands-on experience in SQL Server (T-SQL), Python, and Power BI — turning raw transactional data into validated, decision-ready insights.
 
 ## 💻 Skills
 
-**Programming & Querying:** Python, SQL, T-SQL
+**Programming & Querying:** SQL, T-SQL, Python
 
-**Data Analysis:** Pandas, NumPy, Data Cleaning, Exploratory Data Analysis, Statistical Analysis
+**Data Analysis & ML:** EDA, Statistical Analysis, Feature Engineering, Data Cleaning, Anomaly Detection, Customer Segmentation, Pandas
 
-**Data Visualization:** Power BI, Excel, Matplotlib, Seaborn, Dashboard Development, KPI Reporting
+**Visualization & BI:** Power BI, Data Modeling, Dashboard Development, KPI Reporting, Excel (Pivot Tables, VLOOKUP), Matplotlib, Business Intelligence
 
-**Databases & Tools:** SQL Server, MySQL, PostgreSQL, Jupyter Notebook, Git, GitHub
+**Databases, Tools & Concepts:** SQL Server (SSMS), Data Modeling (Star Schema), Git, GitHub, Jupyter Notebook, Google Colab, Stakeholder Communication, Requirements Gathering, Data Storytelling
 
 ## 🚀 Currently
 
-- 📊 Building end-to-end data analytics projects
-- 🧠 Strengthening SQL, Python, and statistical analysis
-- 📈 Developing business intelligence dashboards
-- 🤖 Exploring Machine Learning and Data Science
+- Learning Machine Learning fundamentals — regression, classification, model evaluation
+- Studying gradient boosting / XGBoost
+- Preparing to apply ML on real datasets, building toward a Data Scientist transition
 
-## 📫 Connect With Me
-
-📧 Email: your-email@gmail.com  
-🔗 LinkedIn: Your LinkedIn
+📧 Email: mirsufiyanali6s@gmail.com  
+🔗 LinkedIn: [Mir Sufiyan Ali]([YOUR_LINKEDIN_URL](https://github.com/mirsufiyanali6))
