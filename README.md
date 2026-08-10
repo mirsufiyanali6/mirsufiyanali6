@@ -19,4 +19,4 @@ Data Analyst with hands-on experience in SQL Server (T-SQL), Python, and Power B
 - Preparing to apply ML on real datasets, building toward a Data Scientist transition
 
 📧 Email: mirsufiyanali6s@gmail.com  
-🔗 LinkedIn: [Mir Sufiyan Ali]([YOUR_LINKEDIN_URL](https://github.com/mirsufiyanali6))
+🔗 LinkedIn: [Mir Sufiyan Ali](https://github.com/mirsufiyanali6)
